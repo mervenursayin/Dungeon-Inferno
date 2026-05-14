@@ -79,7 +79,7 @@ Karakterin en başta sabit ve ‘10’ olan bu canına; yağ, su, petrol birikin
   
 # Kaynakça
 Harita yapımında kullanılan görseller için:
-* Shutterstock. (t.y.). Pixelated wall stone illustrations. Shutterstock. https://www.shutterstock.com/tr/search/pixelated-wall-stone?image_type=illustration
+* Shutterstock. (t.y.) Pixelated wall stone illustrations. Shutterstock. https://www.shutterstock.com/tr/search/pixelated-wall-stone?image_type=illustration
 
 Karakter oluşumunda kullanılan görsel için:
 * Reddit kullanıcısı r/PixelArt. (t.y.). 16x16 topdown character sprite [Reddit gönderisi].
